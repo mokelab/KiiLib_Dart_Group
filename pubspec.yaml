@@ -1,8 +1,8 @@
 name: kiilib_group
 description: Kii Library - group API
 author: fkm <fkm@mokelab.com>
-homepage:
-repository:
+homepage: https://github.com/mokelab/KiiLib_Dart_Group
+repository: https://github.com/mokelab/KiiLib_Dart_Group
 
 version: 0.0.1+1
 
